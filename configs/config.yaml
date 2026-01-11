@@ -1,0 +1,4 @@
+model: gemini-3-pro-preview-thinking
+base_url: https://yunwu.zeabur.app/v1
+api_key: YOUR_API_KEY
+verbose: true
